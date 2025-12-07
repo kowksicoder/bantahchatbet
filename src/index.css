@@ -1,9 +1,10 @@
-/* Import Poppins font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-
-/* Import SF Pro Rounded and Inter fonts */
-@import url('https://fonts.cdnfonts.com/css/sf-pro-rounded');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+/* Poppins Rounded Font */
+@font-face {
+  font-family: 'Poppins Rounded';
+  src: url('/fonts/PoppinsRounded-Rounded.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 @tailwind base;
 @tailwind components;

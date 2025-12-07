@@ -6,28 +6,19 @@ export default {
     extend: {
       fontFamily: {
         sans: [
-          'SF Pro Rounded',
-          'SF Pro Rounded Medium',
-          '-apple-system',
-          'BlinkMacSystemFont',
+          'Poppins Rounded',
           'sans-serif',
         ],
         bold: [
-          'Inter-Bold',
-          'Inter',
-          'Inter Placeholder',
+          'Poppins Rounded',
           'sans-serif',
         ],
         'bold-italic': [
-          'Inter-BoldItalic',
-          'Inter',
-          'Inter Placeholder',
+          'Poppins Rounded',
           'sans-serif',
         ],
         italic: [
-          'Inter-Italic',
-          'Inter',
-          'Inter Placeholder',
+          'Poppins Rounded',
           'sans-serif',
         ],
       },
